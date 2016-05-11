@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3512545
+color:
+  saturation: 0.2058956
+  lightness: 0.1690009
+  brandStrength: 0.1883055
+  rhythmicContrast: 0.6439626
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: JComputerRepair
